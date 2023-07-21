@@ -1,0 +1,15 @@
+C:\Amulya\UserRegistrationAPI\bin\Debug\net7.0\UserRegistrationAPI.exe
+C:\Amulya\UserRegistrationAPI\bin\Debug\net7.0\UserRegistrationAPI.deps.json
+C:\Amulya\UserRegistrationAPI\bin\Debug\net7.0\UserRegistrationAPI.runtimeconfig.json
+C:\Amulya\UserRegistrationAPI\bin\Debug\net7.0\UserRegistrationAPI.dll
+C:\Amulya\UserRegistrationAPI\bin\Debug\net7.0\UserRegistrationAPI.pdb
+C:\Amulya\UserRegistrationAPI\obj\Debug\net7.0\UserRegistrationAPI.csproj.AssemblyReference.cache
+C:\Amulya\UserRegistrationAPI\obj\Debug\net7.0\UserRegistrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amulya\UserRegistrationAPI\obj\Debug\net7.0\UserRegistrationAPI.AssemblyInfoInputs.cache
+C:\Amulya\UserRegistrationAPI\obj\Debug\net7.0\UserRegistrationAPI.AssemblyInfo.cs
+C:\Amulya\UserRegistrationAPI\obj\Debug\net7.0\UserRegistrationAPI.csproj.CoreCompileInputs.cache
+C:\Amulya\UserRegistrationAPI\obj\Debug\net7.0\UserRegistrationAPI.dll
+C:\Amulya\UserRegistrationAPI\obj\Debug\net7.0\refint\UserRegistrationAPI.dll
+C:\Amulya\UserRegistrationAPI\obj\Debug\net7.0\UserRegistrationAPI.pdb
+C:\Amulya\UserRegistrationAPI\obj\Debug\net7.0\UserRegistrationAPI.genruntimeconfig.cache
+C:\Amulya\UserRegistrationAPI\obj\Debug\net7.0\ref\UserRegistrationAPI.dll

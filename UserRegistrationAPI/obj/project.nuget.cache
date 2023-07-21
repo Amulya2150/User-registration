@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KSR8oWNjia9bGD7BEmh6j3zNQ4Y9MUq/mzLno1DJk2PTodmsOtWNNyUmvcTTLPwuSp7FdSuYtdApQc9DNZxDTw==",
+  "success": true,
+  "projectFilePath": "C:\\Amulya\\UserRegistrationAPI\\UserRegistrationAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amulyas\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.9\\microsoft.aspnetcore.jsonpatch.7.0.9.nupkg.sha512",
+    "C:\\Users\\amulyas\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.9\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.9.nupkg.sha512",
+    "C:\\Users\\amulyas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\amulyas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\amulyas\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
